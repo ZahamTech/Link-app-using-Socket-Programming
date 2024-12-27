@@ -15,7 +15,10 @@ The main features of the Link App include:
 I am using three separate sockets for chatting, file sharing, and voice calling.
 
 ## 5. Steps to Make This App
-1. First, I made a simple chatting app.
+1. First, I made a simple chatting app using a TCP socket.
+2. Then I separate made a voice calling app using UDP socket.
+3. After it, I made a File sharing app using TCP socket.
+4. In Final step, I merge the above three to Make a Link app.
 
 ## Technologies
 
